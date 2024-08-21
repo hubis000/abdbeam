@@ -1,0 +1,1 @@
+Upgraded ABD beam from https://github.com/victorazzo/abdbeam. Added capability to obtain stress levels in each ply of laminate lay up. Added example "Stress_calculation_example.py" which explores the full capability of the stress calculation.
